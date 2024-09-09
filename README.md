@@ -1,1 +1,1 @@
-This project was created solely for a practical task for Hostinger
+This project was created solely for a practical task.
